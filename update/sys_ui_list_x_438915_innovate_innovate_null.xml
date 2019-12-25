@@ -3,62 +3,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_438915_innovate_innovate" element="NULL" name="x_438915_innovate_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9790e813db750010af758a1848961980</list_id>
+            <list_id display_value="x_438915_innovate_innovate" element="NULL" name="x_438915_innovate_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">181240e7db714010af758a184896192e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-23 15:31:04</sys_created_on>
-            <sys_id>db90e813db750010af758a1848961980</sys_id>
+            <sys_created_on>2019-12-24 07:56:05</sys_created_on>
+            <sys_id>101240e7db714010af758a184896192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-23 15:31:04</sys_updated_on>
+            <sys_updated_on>2019-12-24 07:56:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>idea_type</element>
-            <list_id display_value="x_438915_innovate_innovate" element="NULL" name="x_438915_innovate_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9790e813db750010af758a1848961980</list_id>
+            <list_id display_value="x_438915_innovate_innovate" element="NULL" name="x_438915_innovate_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">181240e7db714010af758a184896192e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-23 15:31:04</sys_created_on>
-            <sys_id>5f90e813db750010af758a1848961980</sys_id>
+            <sys_created_on>2019-12-24 07:56:05</sys_created_on>
+            <sys_id>901240e7db714010af758a184896192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-23 15:31:04</sys_updated_on>
+            <sys_updated_on>2019-12-24 07:56:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>short_description</element>
-            <list_id display_value="x_438915_innovate_innovate" element="NULL" name="x_438915_innovate_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9790e813db750010af758a1848961980</list_id>
+            <list_id display_value="x_438915_innovate_innovate" element="NULL" name="x_438915_innovate_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">181240e7db714010af758a184896192e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-23 15:31:04</sys_created_on>
-            <sys_id>df90e813db750010af758a1848961980</sys_id>
+            <sys_created_on>2019-12-24 07:56:05</sys_created_on>
+            <sys_id>141240e7db714010af758a184896192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-23 15:31:04</sys_updated_on>
+            <sys_updated_on>2019-12-24 07:56:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>description</element>
-            <list_id display_value="x_438915_innovate_innovate" element="NULL" name="x_438915_innovate_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9790e813db750010af758a1848961980</list_id>
+            <list_id display_value="x_438915_innovate_innovate" element="NULL" name="x_438915_innovate_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">181240e7db714010af758a184896192e</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-23 15:31:04</sys_created_on>
-            <sys_id>5390e813db750010af758a1848961981</sys_id>
+            <sys_created_on>2019-12-24 07:56:05</sys_created_on>
+            <sys_id>941240e7db714010af758a184896192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-23 15:31:04</sys_updated_on>
+            <sys_updated_on>2019-12-24 07:56:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_438915_innovate_innovate" element="NULL" name="x_438915_innovate_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">181240e7db714010af758a184896192e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-24 07:56:05</sys_created_on>
+            <sys_id>181240e7db714010af758a184896192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-24 07:56:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_438915_innovate_innovate" element="NULL" name="x_438915_innovate_innovate" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">181240e7db714010af758a184896192e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-24 07:56:05</sys_created_on>
+            <sys_id>981240e7db714010af758a184896192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-24 07:56:05</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -72,10 +102,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-12-23 15:31:04</sys_created_on>
+            <sys_created_on>2019-12-24 07:56:05</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9790e813db750010af758a1848961980</sys_id>
+            <sys_id>181240e7db714010af758a184896192e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_438915_innovate_innovate</sys_name>
             <sys_package display_value="Innovate" source="x_438915_innovate">0c715093db350010af758a18489619c9</sys_package>
@@ -83,7 +113,7 @@
             <sys_scope display_value="Innovate">0c715093db350010af758a18489619c9</sys_scope>
             <sys_update_name>sys_ui_list_x_438915_innovate_innovate_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-12-23 15:31:04</sys_updated_on>
+            <sys_updated_on>2019-12-24 07:56:05</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

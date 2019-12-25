@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Innovate" max_length="40" name="x_438915_innovate_innovate" type="collection">
-        <element choice="1" default="HR" label="Assigned To" mandatory="true" max_length="500" name="assigned_to" type="choice">
-            <choice/>
+    <element audit="true" label="Innovate" max_length="40" name="x_438915_innovate_innovate" type="collection">
+        <element choice="1" default="CEO" label="Assigned To" mandatory="true" max_length="500" name="assigned_to" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CEO" value="CEO"/>
+                <element inactive_on_update="false" label="HR" value="HR"/>
+                <element inactive_on_update="false" label="Other resource" value="other"/>
+                <element inactive_on_update="false" label="Team Lead" value="Team Lead"/>
+            </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="description" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Idea type" max_length="40" name="idea_type" type="string">
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="1000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Idea type" mandatory="true" max_length="40" name="idea_type" type="string">
             <choice>
                 <element inactive_on_update="false" label="Cost Savings" value="cost"/>
+                <element inactive_on_update="false" label="Other" value="other"/>
                 <element inactive_on_update="false" label="Process Improvement" value="process"/>
                 <element inactive_on_update="false" label="Team Building" value="team"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="1000" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" mandatory="true" max_length="40" name="other" type="string"/>
+        <element label="Requested for" mandatory="true" max_length="40" name="requested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" mandatory="true" max_length="100" name="short_description" type="string"/>
+        <element choice="1" default="Open" label="State" mandatory="true" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Closed" value="Closed"/>
+                <element inactive_on_update="false" label="Open" value="Open"/>
+                <element inactive_on_update="false" label="Work In Progress" value="Work In Progress"/>
+            </choice>
+        </element>
     </element>
 </database>
